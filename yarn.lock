@@ -1660,8 +1660,10 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@release-it/conventional-changelog@^9.0.2":
-  version "9.0.3"
+"@release-it/conventional-changelog@^9.0.4":
+  version "9.0.4"
+  resolved "https://registry.npmjs.org/@release-it/conventional-changelog/-/conventional-changelog-9.0.4.tgz"
+  integrity sha512-eSZVATX2qiyxzpXdIVNczxTGR+uD4lG/ZEfDDYBJ8vKIj6fKp+eYicIS8Ff/eL3bA9XiQTmllKqxPRzmz9d45w==
   dependencies:
     concat-stream "^2.0.0"
     conventional-changelog "^6.0.0"
@@ -1695,18 +1697,6 @@
   version "10.3.0"
   dependencies:
     "@sinonjs/commons" "^3.0.0"
-
-"@tanstack/query-core@5.62.16":
-  version "5.62.16"
-  resolved "https://registry.npmjs.org/@tanstack/query-core/-/query-core-5.62.16.tgz"
-  integrity sha512-9Sgft7Qavcd+sN0V25xVyo0nfmcZXBuODy3FVG7BMWTg1HMLm8wwG5tNlLlmSic1u7l1v786oavn+STiFaPH2g==
-
-"@tanstack/react-query@^5.62.16":
-  version "5.62.16"
-  resolved "https://registry.npmjs.org/@tanstack/react-query/-/react-query-5.62.16.tgz"
-  integrity sha512-XJIZNj65d2IdvU8VBESmrPakfIm6FSdHDzrS1dPrAwmq3ZX+9riMh/ZfbNQHAWnhrgmq7KoXpgZSRyXnqMYT9A==
-  dependencies:
-    "@tanstack/query-core" "5.62.16"
 
 "@tootallnate/quickjs-emscripten@^0.23.0":
   version "0.23.0"
@@ -5847,7 +5837,7 @@ react-native-builder-bob@^0.32.0:
     which "^2.0.2"
     yargs "^17.5.1"
 
-"react-native-rfid-chainway-c72-example@file:/home/v2saude/Área de Trabalho/certificados/test2/test3/react-native-rfid-chainway-c72/example":
+"react-native-rfid-chainway-c72-example@file:/home/v2saude/Área de Trabalho/certificados/test2/test3/okay/react-native-rfid-chainway-c72/example":
   version "0.0.1"
   resolved "file:example"
   dependencies:
@@ -5900,7 +5890,7 @@ react-native@*, react-native@0.76.5:
 react-refresh@^0.14.0:
   version "0.14.2"
 
-react@*, "react@^18 || ^19", react@^18.2.0, react@18.3.1:
+react@*, react@^18.2.0, react@18.3.1:
   version "18.3.1"
   dependencies:
     loose-envify "^1.1.0"
